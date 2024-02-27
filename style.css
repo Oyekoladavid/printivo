@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.start {
+    background-color: #f7f6f4;
+}
+
+.hold-item {
+    width: 80%;
+    margin: auto;
+    background-color: #f7f6f4;
+}
+
+
+.need {
+    transform: translateX(300px);
+}
+
+.niger {
+    width: 100px;
+    text-align: center;
+}
+
+.h1-style {
+    color: #384A62;
+    font-family: "DM Serif Display", serif;
+}
+
+.back-img {
+    background-color: #ece8d9;
+    height: 500px;
+    border: 1px solid #ece8d9;
+}
+
+.nav-div {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    gap: 350px;
+    margin-top: 20px;
+}
+
+.hold-sec-side {
+    display: flex;
+    gap: 15px;
+    text-decoration: none;
+}
+
+.tina {
+    font-weight: 600;
+    font-family: sans-serif;
+    color:#4B6382; 
+}
+
+.tino {
+    display: flex;
+    gap: 20px;
+}
+
+.hold-us {
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 900px;
+    width: 80%;
+    margin: auto;
+}
+
+.hold-use {
+    /* border: 1px solid red; */
+    display: flex;
+    gap: 850px;
+    width: 80%;
+    margin: auto;
+}
+
+.pop {
+    color: #384A62;
+    font-family: "DM Serif Display", serif;
+    font-size: 30px;
+    font-weight: 400px;
+}
+
+.see {
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #D77F81;
+}
+
+.sees {
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #D77F81;
+}
+
+.card1 {
+    width: 80%;
+    margin: auto;
+}
+
+.image-gangan {
+    height: 200px;
+}
+
+.colour {
+    background-color: #d77f81;
+}
+
+.white {
+    color: #fff;
+}
